@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01e08265-c812-4bc9-ade9-1d820457d7fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13.1/libexec" />
+  <component name="ProjectId" id="1n9VAugihZH1VksfT0kB3SIfKli" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/game" />
+      <recent name="$PROJECT_DIR$/maps" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestRoute3 in thayam/maps">
+    <configuration name="go build thayam (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="thayam" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="thayam" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRoute0 in thayam/maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="thayam" />
+      <working_directory value="$PROJECT_DIR$/maps" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="thayam/maps" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestRoute0\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRoute1 in thayam/maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="thayam" />
+      <working_directory value="$PROJECT_DIR$/maps" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="thayam/maps" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestRoute1\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRoute2 in thayam/maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="thayam" />
+      <working_directory value="$PROJECT_DIR$/maps" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="thayam/maps" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestRoute2\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRoute3 in thayam/maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="thayam" />
+      <working_directory value="$PROJECT_DIR$/maps" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="thayam/maps" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestRoute3\E$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build thayam (1)" />
+      <item itemvalue="Go Test.TestRoute1 in thayam/maps" />
+      <item itemvalue="Go Test.TestRoute0 in thayam/maps" />
+      <item itemvalue="Go Test.TestRoute2 in thayam/maps" />
+      <item itemvalue="Go Test.TestRoute3 in thayam/maps" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestRoute3 in thayam/maps" />
+        <item itemvalue="Go Test.TestRoute2 in thayam/maps" />
+        <item itemvalue="Go Test.TestRoute0 in thayam/maps" />
+        <item itemvalue="Go Test.TestRoute1 in thayam/maps" />
+        <item itemvalue="Go Build.go build thayam (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="180" y="74" width="1079" height="826" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610802797263">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="180" y="74" width="1079" height="826" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1610802797263" />
+    <state width="760" height="582" key="DebuggerActiveHint" timestamp="1610994607948">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="760" height="582" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1610994607948" />
+    <state width="760" height="582" key="DebuggerActiveHint/0.25.1440.875@0.25.1440.875" timestamp="1610994485396" />
+    <state width="1388" height="416" key="GridCell.Tab.0.bottom" timestamp="1610995629029">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="416" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610995629029" />
+    <state width="1388" height="416" key="GridCell.Tab.0.center" timestamp="1610995629028">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="416" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1610995629028" />
+    <state width="1388" height="416" key="GridCell.Tab.0.left" timestamp="1610995629027">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="416" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1610995629027" />
+    <state width="1388" height="416" key="GridCell.Tab.0.right" timestamp="1610995629028">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="416" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1610995629028" />
+    <state width="1388" height="190" key="GridCell.Tab.1.bottom" timestamp="1610994675316">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="190" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610994675316" />
+    <state width="1388" height="190" key="GridCell.Tab.1.center" timestamp="1610994675315">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="190" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1610994675315" />
+    <state width="1388" height="190" key="GridCell.Tab.1.left" timestamp="1610994675314">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="190" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1610994675314" />
+    <state width="1388" height="190" key="GridCell.Tab.1.right" timestamp="1610994675315">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="190" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1610994675315" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1610927121563">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1610927121563" />
+    <state x="532" y="199" key="refactoring.ChangeSignatureDialog" timestamp="1610935300386">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="532" y="199" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1610935300386" />
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1610991234320">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1610991234320" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/maps/map7.go</url>
+          <line>64</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
