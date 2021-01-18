@@ -13,6 +13,6 @@ func main()  {
 	gameID := lobby.CreateGame(gs)
 	g := lobby.GetGame(gameID)
 	g.Start()
-	//g.Stop()
+	g.Stop()
 	time.Sleep(60 * time.Minute)
 }
